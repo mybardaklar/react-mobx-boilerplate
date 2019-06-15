@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["document","addEventListener","alert"],"mappings":"aAAAA,SAASC,iBAAiB,mBAAoB,WAC5CC,MAAM","file":"main.bundle.js","sourcesContent":["document.addEventListener('DOMContentLoaded', () => {\r\n  alert('Hello World!');\r\n});\r\n"]}
